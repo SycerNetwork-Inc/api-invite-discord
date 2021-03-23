@@ -6,3 +6,8 @@
 - ก็อป Server ID
 - เข้า https://cszteam.me/invite/?id=ใส่ไอดีตรงนี้
 - เช่น ก็อปไอดี 823191030220324915 วิธีใช้ https://cszteam.me/invite/?id=823191030220324915
+## การใช้ &r=
+- ใช้ &r=1 คือ goto ไปยัง Discord Link Invite
+- ใช้ &r=2 คือ Json Api
+- ใช้ &r=3 คือ XML Api
+- วิธีการใช้ https://cszteam.me/invite/?id=ใส่ไอดีตรงนี้&r=ตัวเลข เช่น https://cszteam.me/invite/?id=823191030220324915&r=1

@@ -1,1 +1,2 @@
-# api-invite-discord
+# Api Discord Invite
+## Instal

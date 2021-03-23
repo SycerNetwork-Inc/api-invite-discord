@@ -11,3 +11,5 @@
 - ใช้ &r=2 คือ Json Api
 - ใช้ &r=3 คือ XML Api
 - วิธีการใช้ https://cszteam.me/invite/?id=ใส่ไอดีตรงนี้&r=ตัวเลข เช่น https://cszteam.me/invite/?id=823191030220324915&r=1
+
+# https://cszteam.me/invite/

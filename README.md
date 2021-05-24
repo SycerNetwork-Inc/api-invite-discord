@@ -1,4 +1,4 @@
-# Api Discord Invite
+# Api Discord Invite [ Old Version ]
 ## วิธีการใช้ การใช้งาน
 - เข้า Discord -> Setting -> Widget
 - เปิด Enble Server Widget

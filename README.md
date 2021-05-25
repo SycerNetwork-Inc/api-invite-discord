@@ -13,3 +13,5 @@
 - วิธีการใช้ https://cszteam.me/invite/?id=ใส่ไอดีตรงนี้&r=ตัวเลข เช่น https://cszteam.me/invite/?id=823191030220324915&r=1
 
 # https://cszteam.me/invite/
+
+ตอนนี้เวอร์ชันใหม่อยู่ที่ https://exgun.ml/api/ ไปใช้งานกันได้เลยงับ

@@ -14,4 +14,4 @@
 
 # https://cszteam.me/invite/
 
-ตอนนี้เวอร์ชันใหม่อยู่ที่ https://exgun.ml/api/ ไปใช้งานกันได้เลยงับ
+ตอนนี้เวอร์ชันใหม่อยู่ที่ https://cszteam.me/api/api-invite.php ไปใช้งานกันได้เลยงับ

@@ -1,0 +1,50 @@
+doctype html
+head
+  meta(charset='UTF-8')
+  meta(name='theme-color' content='data')
+  link(rel='icon' type='image/png' href=image)
+  meta(name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no')
+  meta(http-equiv='x-ua-compatible' content='ie=edge')
+  meta(name='description' content='data')
+  meta(name='twitter:card' content='summary_large_image')
+  meta(name='twitter:site' content='@discord')
+  meta(name='twitter:title' content= namediscord)
+  meta(name='twitter:description' content='data')
+  meta(property='og:title' content='title')
+  meta(property='og:url' content='invite')
+  meta(property='og:description' content='data')
+  meta(property='og:site_name' content='Sycer Invite')
+  meta(property='og:image' content=image)
+  meta(property='og:image:type' content='image/jpeg')
+  meta(property='og:image:width' content='4096')
+  meta(property='og:image:height' content='4096')
+  title= namediscord
+  link(rel='stylesheet' href='https://use.fontawesome.com/releases/v5.8.2/css/all.css')
+  link(rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap')
+  link(href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css' rel='stylesheet')
+  link(href='https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css' rel='stylesheet')
+  style 
+    include style.css
+  style
+    = background
+.view.bg-hero(style='min-height:100vh;')
+  .mask.flex-center
+    .dark-text.text-center.col-sm-3
+      .card
+        img.card-img-top(src=image alt='' style='background-color: black;')
+        .card-body
+          h4.card-title
+            a= namediscord
+          p.card-text
+            | มีคนออนไลน์ขณะนี้ : 
+            span.badge.badge-danger
+            = count
+          hr
+          a.btn.btn-black.btn-block.btn-lg(href=get target='_blank' style='color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;')
+            i.fab.fa-discord 
+            |  เข้าร่วม Discord ของเรา
+        a(href='https://www.facebook.com/sycertinnerkung' style='margin-bottom: 10px;') &copy; Copyright TinnerX
+script(type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js')
+script(type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js')
+script(type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js')
+script(type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js')

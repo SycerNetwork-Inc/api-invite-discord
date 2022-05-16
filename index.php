@@ -39,11 +39,6 @@ if($getdatainvite["guild"]["banner"] == null){
 @$description = $getdatainvite["guild"]["welcome_screen"]["description"];
 @$ogtitle = $getdatainvite["guild"]["name"];
 
-@$im = imagecreatefrompng($imgall);
-@$rgb = imagecolorat($im, 350, 120);
-@$colors = imagecolorsforindex($im, $rgb);
-@$sHexValue = dechex($colors["red"]) . dechex($colors["green"]) . dechex($colors["blue"]);
-
   // หาลายชื่อ Server ไม่ติด หรือ เขียนมั้ว
 
 if ($id == '485833931283890188') {
@@ -150,7 +145,6 @@ if ($id == '485833931283890188') {
   <html lang="en">
   <head>
   <meta charset="UTF-8">
-  <meta name="theme-color" content="<?php echo '#' . $sHexValue; ?>">
   <link rel="icon" type="image/png" href="<?php echo $imgall ?>"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">

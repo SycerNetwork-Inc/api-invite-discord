@@ -1,14 +1,10 @@
 <?php
   /*
   --------------------------------------------------------
-  > ทำเพือการศึกษา โดย TinnerKung
-  > แจกได้จำหน่ายพ่องตาย
-  > ของมันฟรีเสือกหาพ่อค้าดูด Script เอาไปโมให้เสียตัง
-  > ลูกค้าแม่งก็ควายชิปหาย
-  > TinnerKung
+  > ทำเพือการศึกษา โดย TinnerKun
   > Facebook https://www.facebook.com/sycertinnerkung
   > GitHub https://github.com/TinnerKung
-  > Website https://cszteam.me
+  > Website https://sycer.network
   --------------------------------------------------------
   */
 
@@ -51,7 +47,7 @@ if($getdatainvite["guild"]["banner"] == null){
   // หาลายชื่อ Server ไม่ติด หรือ เขียนมั้ว
 
 if ($id == '485833931283890188') {
-  header( "location: https://cszteam.me" );
+  header( "location: https://bot.sycer.network" );
   exit(0);
 } else {
 

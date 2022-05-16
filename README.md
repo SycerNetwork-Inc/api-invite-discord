@@ -1,6 +1,6 @@
 # Api Discord Invite [ Old Version ]
 
-![](Screenshot 2022-05-16 151406.png)
+![](./Screenshot%202022-05-16%20151406.png)
 
 ## วิธีการใช้ การใช้งาน
 - เข้า Discord -> Setting -> Widget
